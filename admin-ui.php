@@ -7,7 +7,7 @@
  * Author:      Useful Team
  * Author URI:  https://usefulteam.com
  * License:     GPL-3.0
- * License URI: https://oss.ninja/gpl-3.0?organization=Useful%20Team&project=admin-ui
+ * License URI: https://oss.ninja/gpl-3.0?organization=Useful%20Team&project=WordPress%20Admin%20UI
  * Text Domain: admin-ui
  * Domain Path: /languages
  *
