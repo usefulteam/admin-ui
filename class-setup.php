@@ -5,7 +5,7 @@
  * @package admin-ui
  */
 
-namespace Au;
+namespace Adminui;
 
 /**
  * Class to setup custom admin UI.
@@ -63,7 +63,7 @@ class Setup {
 	 */
 	public function admin_assets() {
 
-		wp_enqueue_style( 'au-admin-styles', AU_PLUGIN_URL . '/assets/css/admin-styles.css', array(), AU_PLUGIN_VERSION );
+		wp_enqueue_style( 'au-admin-styles', ADMINUI_PLUGIN_URL . '/assets/css/admin-styles.css', array(), ADMINUI_PLUGIN_VERSION );
 
 	}
 
