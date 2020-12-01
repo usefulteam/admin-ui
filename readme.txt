@@ -1,4 +1,4 @@
-=== WordPress Admin UI - Custom admin UI for WordPress ===
+=== Admin UI - Custom WordPress admin UI / theme ===
 
 Contributors: contactjavas
 Donate link: https://www.paypal.me/bagusjavas
@@ -10,12 +10,12 @@ Requires PHP: 7.2
 License: GPLv3
 License URI: https://oss.ninja/gpl-3.0?organization=Useful%20Team&project=WordPress%20Admin%20UI
 
-WordPress custom admin UI. Turn your WordPress admin UI to be smoother and more beautiful.
+WordPress custom admin UI / theme. Turn your WordPress admin UI to be smoother and more beautiful.
 
 == Description ==
 WordPress is a very powerful CMS. It has huge ecosystem (plugins, themes, community). Can be used for almost any kind of website / application.
 
-But the default admin area's UI  doesn't look good. It can be improved. You might want to use this custom admin ui plugin to provide smoother and more beautiful UI for your WordPress admin area.
+But the default admin area's UI / theme  doesn't look good. It can be improved. You might want to use this custom admin ui plugin to provide smoother and more beautiful UI for your WordPress admin area.
 
 - Support & question: [WordPress support forum](https://wordpress.org/support/plugin/admin-ui/)
 - Reporting plugin's bug: [GitHub issues tracker](https://github.com/usefulteam/admin-ui/issues)
