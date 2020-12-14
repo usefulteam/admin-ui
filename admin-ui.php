@@ -1,13 +1,13 @@
 <?php
 /**
- * Plugin Name: Admin UI
+ * Plugin Name: Custom Admin UI
  * Plugin URI:  https://wordpress.org/plugins/admin-ui/
- * Description: WordPress custom admin UI. Turn your WordPress admin UI to be smoother and more beautiful.
+ * Description: WordPress custom admin UI or admin theme. Turn your WordPress dashboard or admin area to be smoother and more beautiful.
  * Version:     0.1.0
  * Author:      Useful Team
  * Author URI:  https://usefulteam.com
  * License:     GPL-3.0
- * License URI: https://oss.ninja/gpl-3.0?organization=Useful%20Team&project=WordPress%20Admin%20UI
+ * License URI: https://oss.ninja/gpl-3.0?organization=Useful%20Team&project=Custom%20Admin%20UI
  * Text Domain: admin-ui
  * Domain Path: /languages
  *
