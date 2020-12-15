@@ -58,6 +58,9 @@ You can help this plugin stay alive and maintained by giving **5 Stars** Rating/
 5. General Settings
 
 == Changelog ==
+= 0.1.1 =
+- Change some README to make it easier for people to search for this plugin.
+
 = 0.1.0 =
 - Minimum viable product.
 
