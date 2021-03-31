@@ -4,7 +4,7 @@ Contributors: contactjavas
 Donate link: https://www.paypal.me/bagusjavas
 Tags: custom-admin-ui, wordpress-admin-ui, custom-admin-theme
 Requires at least: 5.2
-Tested up to: 5.6
+Tested up to: 5.7
 Stable tag: trunk
 Requires PHP: 7.2
 License: GPLv3
@@ -58,6 +58,9 @@ You can help this plugin stay alive and maintained by giving **5 Stars** Rating/
 5. General Settings
 
 == Changelog ==
+= 0.2.0 =
+- Add Woocommerce support.
+
 = 0.1.1 =
 - Change some README to make it easier for people to search for this plugin.
 
