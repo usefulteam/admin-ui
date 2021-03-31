@@ -54,7 +54,7 @@ class Setup {
 	 */
 	public function setup() {
 
-		add_action( 'admin_enqueue_scripts', array( self::get_instance(), 'admin_assets' ) );
+		add_action( 'admin_enqueue_scripts', array( self::get_instance(), 'admin_assets' ), 99 );
 
 	}
 
